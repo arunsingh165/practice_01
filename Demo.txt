@@ -1,2 +1,3 @@
 Hello Arun Kumar Singh
 This is my first Application
+This is new project which is going to give you understanding of git.
